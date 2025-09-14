@@ -2,7 +2,7 @@
 
 - 👋 Hola soy @Mantequilla-0
 - 👀 Estoy interasado en las areas de Desarrollo Web, Aplicaciones de Escritorio, Ciberseguridad y Videojuegos. 
-- 🌱 Actualmente estoy leyendo Python
+- 🌱 Actualmente estoy leyendo Python y C#, además de html, css y javascript
 - 📫 Puedes contactarme por discord: Mantequilla-ΔΔΔ-ඞ#3812
 
 # Logros:
